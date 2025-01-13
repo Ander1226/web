@@ -1,0 +1,72 @@
+/* Estilos generales */
+body {
+    font-size:large;
+    border-image-source: 90;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(34, 26, 101);
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: ;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    font-size:xx-large;
+    color: rgb(34, 26, 101);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Secciones */
+section {
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgb(34,  blue)
+}
+
+h2 {
+    color: rgb(34, 26, 101);
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgb(34, 26, 101);
+    color: white;
+}
+
+/* Estilos para el enlace de correo */
+a {
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
